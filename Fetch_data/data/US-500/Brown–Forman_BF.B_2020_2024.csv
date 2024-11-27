@@ -1,3 +1,1 @@
-Price,Adj Close,Close,High,Low,Open,Volume
-Ticker,BF.B,BF.B,BF.B,BF.B,BF.B,BF.B
-Date,,,,,,
+Date,Close,Adj Close,Volume,Daily Return,Log Return,MA_20,MA_50,Rolling Volatility,RSI
